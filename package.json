@@ -21,8 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
      "test": "echo \"Tests skipped\""
- 
-  },
+   },
   "eslintConfig": {
     "extends": [
       "react-app",
